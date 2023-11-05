@@ -30,9 +30,7 @@ npm run ios
 
 ## Vista previa
 
-<video width="332" height="720" loop autoplay muted>
-  <source src="./media/ios/AnimatedGradient.mp4" type="video/mp4">
-</video>
+[![Ejemplo](./media/ios/AnimatedGradient.mp4)]
 
 ## Errores (Troubleshooting)
 
