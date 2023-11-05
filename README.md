@@ -30,7 +30,7 @@ npm run ios
 
 ## Vista previa
 
-[![Ejemplo](./media/ios/AnimatedGradient.mp4)]
+![Gradiente en iOS](./media/ios/AnimatedGradient.gif)
 
 ## Errores (Troubleshooting)
 
