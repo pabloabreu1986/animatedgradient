@@ -1,5 +1,7 @@
 # Proyecto base usando [**Skia**](https://shopify.github.io/react-native-skia/) y [**React Native Reanimated**](https://docs.swmansion.com/react-native-reanimated/) en [**React Native**](https://reactnative.dev).
 
+`Con cada click renderizamos un nuevo gradiente animado.`
+
 ## Configuraciones iniciales
 
 **Tener listo**: [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) antes de continuar.
@@ -28,13 +30,9 @@ npm run ios
 
 ## Vista previa
 
-## Android
-
-<img src="./media/android/android_gradient.png" width="250" height="600" alt="colorful">&nbsp; &nbsp;
-
-## iOS
-
-<img src="./media/ios/ios_gradient.png" width="250" height="600" alt="colorful">&nbsp; &nbsp;
+<video width="332" height="720" loop autoplay muted>
+  <source src="./media/ios/AnimatedGradient.mp4" type="video/mp4">
+</video>
 
 ## Errores (Troubleshooting)
 
